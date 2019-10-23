@@ -1,4 +1,4 @@
-Serial No.,GRE Score,TOEFL Score,University Rating,SOP,LOR ,CGPA,Research,Chance of Admit 
+Serial No.,GRE Score,TOEFL Score,University Rating,SOP,LOR ,CGPA,Research,Chance of Admit
 1,337,118,4,4.5,4.5,9.65,1,0.92
 2,324,107,4,4,4.5,8.87,1,0.76
 3,316,104,3,3,3.5,8,1,0.72
@@ -71,9 +71,6 @@ Serial No.,GRE Score,TOEFL Score,University Rating,SOP,LOR ,CGPA,Research,Chance
 70,328,115,4,4.5,4,9.16,1,0.78
 71,332,118,5,5,5,9.64,1,0.94
 72,336,112,5,5,5,9.76,1,0.96
-73,321,111,5,5,5,9.45,1,0.93
-74,314,108,4,4.5,4,9.04,1,0.84
-75,314,106,3,3,5,8.9,0,0.74
 76,329,114,2,2,4,8.56,1,0.72
 77,327,112,3,3,3,8.72,1,0.74
 78,301,99,2,3,2,8.22,0,0.64
